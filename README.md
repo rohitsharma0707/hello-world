@@ -6,3 +6,4 @@ This repository is built step by step in the tutorial.
 
 It now include steps for GitHub
 Add few more lines
+Confirm to check branch from local to github
